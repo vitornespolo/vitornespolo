@@ -1,7 +1,7 @@
 ### Hi i'm Vitor Nespolo 👋
 
 - 🔭 Atualmente trabalho com Back-End.
-- 🌱 No momento estou aprendendo cada vez mais Java, PHP e JavaScript.
+- 🌱 No momento estou aprendendo cada vez mais Java e JavaScript.
   
 [![Linkedin: vitor](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-nespolo-623a55189/)](https://www.linkedin.com/in/vitor-nespolo-623a55189/)
 
